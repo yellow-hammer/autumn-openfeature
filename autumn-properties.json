@@ -1,0 +1,7 @@
+{
+  "openfeature": {
+    "Провайдер": "json",
+    "ПутьКФайлу": "examples/flags.json",
+    "Домен": "демо"
+  }
+}
