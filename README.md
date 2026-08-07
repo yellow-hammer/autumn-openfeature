@@ -1,5 +1,11 @@
 # autumn-openfeature
 
+<!-- Заглушка: подставить идентификатор репозитория в OpenYellow
+[![OpenYellow](https://openyellow.openintegrations.dev/data/badges/ID.svg)](https://openyellow.org/grid?filter=top&repo=ID)
+-->
+[![telegram chat](https://img.shields.io/badge/telegram-chat-green.svg)](https://t.me/wonder_yellow)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/yellow-hammer/autumn-openfeature)
+
 Интеграция [OpenFeature](https://openfeature.dev) с [autumn](https://github.com/autumn-library/autumn): провайдер фича-флагов
 поднимается по настройкам приложения, а клиент оценки внедряется как обычная зависимость.
 
